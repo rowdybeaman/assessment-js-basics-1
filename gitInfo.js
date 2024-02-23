@@ -8,6 +8,7 @@
     Create a variable called 'gitDefinition'.
     It should be a string containing your best definition of what Git is.
 */
+let gitDefinition = ``
 
 //CODE HERE
 
