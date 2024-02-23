@@ -222,7 +222,7 @@ let pinkPounds = totalPinkAcres * 2000
 
 console.log(fujiPounds, galaPounds, pinkPounds)
 
-
+//// the way i did this is probably not the way you are looking for but since the info was already available to me i figured id use it, id be happy to redo it if nessessary. 
 
 //////////////// PROBLEM 6////////////////
 
