@@ -8,9 +8,9 @@
     Create a variable called 'gitDefinition'.
     It should be a string containing your best definition of what Git is.
 */
-let gitDefinition = ``
 
 //CODE HERE
+let gitDefinition = `Git is a version history sytem`
 
 //////////////////PROBLEM 2////////////////////
 /*
@@ -19,6 +19,7 @@ let gitDefinition = ``
 */
 
 //CODE HERE
+let gitHubDefinition = `Github is a website that lets you upload/download repositories`
 
 //////////////////PROBLEM 3////////////////////
 /*
@@ -27,6 +28,7 @@ let gitDefinition = ``
 */
 
 //CODE HERE
+let gitInitDefinition = `initialize a local repository in the folder you are currently in`
 
 //////////////////PROBLEM 4////////////////////
 /*
@@ -35,6 +37,7 @@ let gitDefinition = ``
 */
 
 //CODE HERE
+let gitCloneDefinition = `copy a repo from GitHub and put it on my computer`
 
 //////////////////PROBLEM 5////////////////////
 /*
@@ -43,6 +46,7 @@ let gitDefinition = ``
 */
 
 //CODE HERE
+let gitStatusDefinition = `Tells you about this git`
 
 //////////////////PROBLEM 6////////////////////
 /*
@@ -54,6 +58,7 @@ let gitDefinition = ``
 */
 
 //CODE HERE
+let gitAddDefinition = `add files to be tracked`
 
 //////////////////PROBLEM 7////////////////////
 /*
@@ -65,7 +70,8 @@ let gitDefinition = ``
 */
 
 //CODE HERE
-
+let gitCommitDefinition = `creates a snapshot of the files`
+let gitCommitCode = `git commit -m`
 
 //////////////////PROBLEM 8////////////////////
 /*
@@ -74,3 +80,5 @@ let gitDefinition = ``
 */
 
 //CODE HERE
+let gitPushDefinition = `puts local commits onto github respoitory`
+
